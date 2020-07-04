@@ -15,7 +15,7 @@ public abstract class Account {
 
        int accountNumber,age;
 
-       String name,phone,dob,accType;
+       String name,phone,dob,accType ;
 
        double balance;
 
