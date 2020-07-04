@@ -17,7 +17,7 @@ public abstract class Account {
 
        String name,phone,dob,accType;
 
-       double balance,n;
+       double balance,n,m;
 
        Scanner scanner;
 
